@@ -1,0 +1,31 @@
+.data__inputs{
+    margin-top: 10%;
+    margin-left: 5%;
+    display: table;
+}
+
+.data__inputs > input{
+    width: 45%;
+    margin-left: 3%;
+    border-radius: 10px;
+    height: 20px;
+}
+
+.data__inputs >button{
+    margin-top: 5%;
+    margin-left: 3%;
+}
+
+ul{
+    list-style-type: none;
+    height: 100%;
+    width: 38vh;
+}
+ul > li{
+    margin-bottom: 20%;
+    margin-top: 30%;
+    padding-bottom: 5px;
+    border-bottom: 1px dotted lightblue;
+    color: #5d94a7
+}
+

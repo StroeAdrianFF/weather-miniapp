@@ -1,0 +1,13 @@
+.imgGen__img > img{
+box-sizing: border-box;
+width: 70vh;
+height: 90vh;
+}
+
+@media only screen and (max-width: 1250px){
+    .imgGen__img{
+        display: none;
+    }
+}
+
+
