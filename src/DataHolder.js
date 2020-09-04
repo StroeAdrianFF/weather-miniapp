@@ -40,12 +40,12 @@ const DataHolder = () => {
 
     const onChangeCountry = (event) => {
         setCountryInput(event.target.value.toLowerCase())
-        console.log(countryInput)
+
     }
 
     const onChangeCity = (event) => {
         setCityInput(event.target.value)
-        console.log(cityInput)
+
     }
 
     return (
